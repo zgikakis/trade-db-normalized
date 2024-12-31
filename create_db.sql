@@ -1,4 +1,4 @@
-CREATE DATABASE materials_de
+CREATE DATABASE materials_norm
     WITH 
     OWNER = owner_username      --enter owner's username
     ENCODING = 'UTF8'          
